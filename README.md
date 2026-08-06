@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amansingh9931/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Amansingh9931/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Amansingh9931/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
