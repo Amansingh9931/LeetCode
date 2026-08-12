@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Amansingh9931/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Amansingh9931/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1140-stone-game-ii](https://github.com/Amansingh9931/LeetCode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amansingh9931/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
