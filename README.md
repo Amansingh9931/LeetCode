@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Amansingh9931/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Amansingh9931/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
