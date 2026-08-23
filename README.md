@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amansingh9931/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Amansingh9931/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Amansingh9931/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/Amansingh9931/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amansingh9931/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
@@ -158,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Amansingh9931/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3477-fruits-into-baskets-ii](https://github.com/Amansingh9931/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Amansingh9931/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3477-fruits-into-baskets-ii](https://github.com/Amansingh9931/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Amansingh9931/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Amansingh9931/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3477-fruits-into-baskets-ii](https://github.com/Amansingh9931/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Amansingh9931/LeetCode/tree/master/0649-dota2-senate) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Amansingh9931/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
