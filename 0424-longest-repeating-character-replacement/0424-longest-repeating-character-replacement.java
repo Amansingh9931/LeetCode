@@ -8,7 +8,7 @@ class Solution {
             f[s.charAt(r)-'A']++;
 
             maxC=Math.max(maxC,f[s.charAt(r)-'A']);
-            while((r-l+1)-maxC>k){
+            if((r-l+1)-maxC>k){
                 f[s.charAt(l)-'A']--;
                 l++;
             }
