@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amansingh9931/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amansingh9931/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Amansingh9931/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/Amansingh9931/LeetCode/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amansingh9931/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Amansingh9931/LeetCode/tree/master/1927-sum-game) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amansingh9931/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Amansingh9931/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Amansingh9931/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/Amansingh9931/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amansingh9931/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amansingh9931/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Amansingh9931/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Amansingh9931/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amansingh9931/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amansingh9931/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
