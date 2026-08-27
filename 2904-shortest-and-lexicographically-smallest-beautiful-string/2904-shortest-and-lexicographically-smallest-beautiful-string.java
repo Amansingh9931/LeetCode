@@ -1,23 +1,24 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
         int n=s.length();
+        int i=0,j=0,ones=0;
+        String ans="";
 
-        for(int i=k;i<=n;i++){
-            String ans="";
-            for(int j=0;j<=n-i;j++){
-                String t=s.substring(j,j+i);
-
-                int ones=0;
-                for(char ch:t.toCharArray())if(ch=='1')ones+=1;
-
-                if(ones==k){
-                    if(ans.isEmpty() || t.compareTo(ans) <0){
-                        ans=t;
-                    }
+        while(j<n){
+            if(s.charAt(j)=='1')ones++;
+            while(ones>k || (i<=j && s.charAt(i)=='0')){
+                if(s.charAt(i)=='1')ones--;
+                i++;
+            }
+            if(ones==k){
+                String t=s.substring(i,j+1);
+                if(ans.isEmpty() || ans.length()>j-i+1 || (t.length()==ans.length() && ans.compareTo(t)>0)){
+                    ans=t;
                 }
             }
-             if(!ans.isEmpty())return ans;
+            j++;
         }
-        return "";
+        return ans;
+        
     }
 }
