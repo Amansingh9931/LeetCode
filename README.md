@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amansingh9931/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/Amansingh9931/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amansingh9931/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amansingh9931/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/Amansingh9931/LeetCode/tree/master/0649-dota2-senate) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Amansingh9931/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Amansingh9931/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Amansingh9931/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Amansingh9931/LeetCode/tree/master/1872-stone-game-viii) |
